@@ -22,3 +22,7 @@ Students will be evaluated based on the following criteria:
 - Depth of research and understanding of the chosen topic.  
 - Analysis and critical evaluation of the topic's principles and frameworks.  
 - Integration of relevant real-world examples and case studies.  
+
+Submission:  
+- Time: week 9
+- File: pptx
