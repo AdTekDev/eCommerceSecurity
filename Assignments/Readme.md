@@ -3,7 +3,7 @@
 The assignment is conducted by a group of approximately 2 to 5 students.
 
 ## Scenario:
-You are an e-commerce consultant hired by a e-commerce company planning to launch an online store on platform A**(you choose)**. Your task is to assess and propose security measures to ensure the confidentiality, integrity, and availability of the company's e-commerce platform.
+You are an e-commerce consultant hired by a e-commerce company planning to launch an online store on platform A **(you choose)**. Your task is to assess and propose security measures to ensure the confidentiality, integrity, and availability of the company's e-commerce platform.
 
 ## Task 1: Risk Assessment
 Perform a risk assessment for the e-commerce platform. Identify potential threats and vulnerabilities that could compromise the security of the system. Evaluate the impact and likelihood of each risk and prioritize them based on their significance to the business.
