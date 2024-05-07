@@ -15,4 +15,8 @@ The task presents a scenario where an employee in a company has a specific passw
 This employee accidentally sent the company's business plan to the wrong person via email.   
 It's known that the current file is encrypted with a password consisting of 3 characters.  
 
-Given this information, the task is to guess the password protecting the data and find the correct password to open the compressed file ATD.rar.  
+Given this information, the task is to guess the password protecting the data and find the correct password to open the compressed file ATD.rar/zip.  
+- ATD.rar - https://github.com/AdTekDev/eCommerceSecurity/blob/main/Exercises/05-Net/ATD.rar
+- ATD.zip - https://github.com/AdTekDev/eCommerceSecurity/blob/main/Exercises/05-Net/ATD.zip
+
+  
