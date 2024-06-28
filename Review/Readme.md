@@ -39,6 +39,13 @@
 - What do FRRs mean when fingerprint scanning is used to secure a PC against walk-up attacks? What might produce high FRRs? Can you think of a way that this problem could be reduced in fingerprint scanning?
 
 
+### Q-List 06  
+- Given the weakness of commercial WAN security, why do you think companies continue to use WAN technology without added cryptographic protections?
+- What could a company do if it was using a commercial WAN and a vulnerability appeared that allowed attackers to easily find routing information and therefore be able to eavesdrop on corporate transmissions?
+- Longer keys are more difficult to crack. Most symmetric keys today are 100 to 300 bits long. Why don’t systems use far longer symmetric keys—say, 1,000 bit keys?
+
+
+
 ## **"short" Q**
 
 ### SQ.01.1
@@ -68,4 +75,11 @@ Some airports are installing face recognition systems to identify terrorists and
 
 ### SQ.04.2  
 Centralizing authentication and authorization reduces cost, improves consistency, and permits rapid provisioning and changes. List the technologies on the way toward greater centralization, beginning with stand-alone authenticators through corporate metadirectory servers.  
+
+### SQ.05.1  
+The total processing speed of microprocessors (based on clock rate and number of circuits) is doubling roughly every year. Today, a symmetric session key needs to be 100 bits long to be considered strong. How long will a symmetric session key have to be in 30 years to be considered strong? (Hint: consider how much longer decryption takes if the key length is increased by a single bit.)  
+
+
+### SQ.05.2  
+The textbook described how public key authentication is used for message-by-message authentication in digital signatures. However, public key authentication is widely used for initial authentication. Describe the processes that the supplicant and verifier would use if public key encryption were used in initial challenge–response authentication. Draw heavily on your understanding of digital signatures, but put this information in challenge–response context.  
 
