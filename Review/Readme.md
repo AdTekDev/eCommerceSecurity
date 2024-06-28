@@ -24,6 +24,12 @@
 - How can DLP systems be effective when placed at the gateway, on clients, and on a database server?
 - How much data would you lose if your computer’s hard drive crashed right now? Could you reduce the amount of data that would be lost? How?
 
+### Q-List 04
+- What three types of hosts are placed in the DMZ?
+- Why do companies put application proxy firewalls in the DMZ?
+- Why do all hosts in the DMZ have to be hardened stringently?
+- Create an egress ACL for an SPI firewall if policy only forbids connections to external FTP servers.
+- Contrast what sniffers can learn if a company being attacked uses NAT or an application proxy server.
 
 
 ## **"short" Q**
@@ -43,3 +49,8 @@ Directory DunLaoghaire has several subdirectories. Each of these subdirectories 
 ### SQ.02.2 
 Critique the safety of each of the following passwords, giving your specific reasoning. (a) swordfish, (b) Lt6^, (c) Processing1, and (d) nitt4aGm^.
 
+### SQ.03.1  
+Most IP addresses are public, in the sense that they can appear on the public Internet. However, a few IP addresses have been designated as private IP addresses. One private IP address range is 172.16.0.0 to 172.31.255.255. Private IP addresses can only appear within a firm. In Figure 6-20 (textbook), internal hosts have private IP addresses except for those in the DMZ, which use public IP addresses. Explain this discrepancy if you can.  
+
+### SQ.03.2  
+A firm has the following firewall policy: Employee access to Internet servers should be unrestricted and external clients should only be able to access the firm’s public webserver, http://www.adtekdev.com. The firm also has a finance server that should only be accessible to people in the finance department. The server and the finance departments are all on the internal subnet 10.5.4.3. The firm has a single large site. How would you implement this policy? Create both a firewall architecture and ACLs for the border firewall for both internal and external connection-opening attempts.
