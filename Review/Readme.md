@@ -1,7 +1,7 @@
 
 # Review 
 
-## Q-List
+## **Q-List**
 
 ### Q-List 01
 
@@ -26,7 +26,7 @@
 
 
 
-## "short" Q
+## **"short" Q**
 
 ### SQ.01.1
 You are advising a small company.   
