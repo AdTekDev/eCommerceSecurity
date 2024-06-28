@@ -31,6 +31,13 @@
 - Create an egress ACL for an SPI firewall if policy only forbids connections to external FTP servers.
 - Contrast what sniffers can learn if a company being attacked uses NAT or an application proxy server.
 
+### Q-List 05
+- What are false acceptance rates (FARs) and false rejection rates (FRRs)?
+- For watch lists of criminals, which is worse from a security viewpoint, a false acceptance or a false rejection? Explain.
+- Reusable passwords offer poor security. What do you think is holding back their replacement with other approaches?
+- Create two good password reset questions. For each, explain why you think it is a good question.
+- What do FRRs mean when fingerprint scanning is used to secure a PC against walk-up attacks? What might produce high FRRs? Can you think of a way that this problem could be reduced in fingerprint scanning?
+
 
 ## **"short" Q**
 
@@ -53,4 +60,12 @@ Critique the safety of each of the following passwords, giving your specific rea
 Most IP addresses are public, in the sense that they can appear on the public Internet. However, a few IP addresses have been designated as private IP addresses. One private IP address range is 172.16.0.0 to 172.31.255.255. Private IP addresses can only appear within a firm. In Figure 6-20 (textbook), internal hosts have private IP addresses except for those in the DMZ, which use public IP addresses. Explain this discrepancy if you can.  
 
 ### SQ.03.2  
-A firm has the following firewall policy: Employee access to Internet servers should be unrestricted and external clients should only be able to access the firm’s public webserver, http://www.adtekdev.com. The firm also has a finance server that should only be accessible to people in the finance department. The server and the finance departments are all on the internal subnet 10.5.4.3. The firm has a single large site. How would you implement this policy? Create both a firewall architecture and ACLs for the border firewall for both internal and external connection-opening attempts.
+A firm has the following firewall policy: Employee access to Internet servers should be unrestricted and external clients should only be able to access the firm’s public webserver, http://www.adtekdev.com. The firm also has a finance server that should only be accessible to people in the finance department. The server and the finance departments are all on the internal subnet 10.5.4.3. The firm has a single large site. How would you implement this policy? Create both a firewall architecture and ACLs for the border firewall for both internal and external connection-opening attempts.  
+
+
+### SQ.04.1   
+Some airports are installing face recognition systems to identify terrorists and criminals. About one in a million people passing through the airport is a terrorist. Suppose the FAR is about 1 percent. The FRR is about 30 percent. Is this system likely to be workable? Explain using a spreadsheet analysis with reasonable assumptions. Give a short paragraph giving your conclusion.  
+
+### SQ.04.2  
+Centralizing authentication and authorization reduces cost, improves consistency, and permits rapid provisioning and changes. List the technologies on the way toward greater centralization, beginning with stand-alone authenticators through corporate metadirectory servers.  
+
