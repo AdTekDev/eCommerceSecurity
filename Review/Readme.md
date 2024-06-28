@@ -42,8 +42,14 @@
 ### Q-List 06  
 - Given the weakness of commercial WAN security, why do you think companies continue to use WAN technology without added cryptographic protections?
 - What could a company do if it was using a commercial WAN and a vulnerability appeared that allowed attackers to easily find routing information and therefore be able to eavesdrop on corporate transmissions?
-- Longer keys are more difficult to crack. Most symmetric keys today are 100 to 300 bits long. Why don’t systems use far longer symmetric keys—say, 1,000 bit keys?
+- Longer keys are more difficult to crack. Most symmetric keys today are 100 to 300 bits long. Why don’t systems use far longer symmetric keys—say, 1,000 bit keys?  
 
+### Q-List 07  
+- Why should general employee misbehavior be a concern?
+- What are the three elements in the fraud and abuse triangle?
+- When someone requests to take an action that is potentially dangerous, what protections should be put into place?
+- Why is it important to enforce mandatory vacations or job rotation?
+- Why are remote connections from home especially dangerous?  
 
 
 ## **"short" Q**
@@ -82,4 +88,13 @@ The total processing speed of microprocessors (based on clock rate and number of
 
 ### SQ.05.2  
 The textbook described how public key authentication is used for message-by-message authentication in digital signatures. However, public key authentication is widely used for initial authentication. Describe the processes that the supplicant and verifier would use if public key encryption were used in initial challenge–response authentication. Draw heavily on your understanding of digital signatures, but put this information in challenge–response context.  
+
+
+### SQ.06.1  
+A company has a resource ZakkuPay. If there is a breach of security, the company may face a fine of $100,000 and pay another $20,000 to clean up the breach. The company believes that an attack is likely to be successful about once in five years. A proposed countermeasure should cut the frequency of occurrence in half. How much should the company be willing to pay for the countermeasure?   
+
+
+### SQ.06.2  
+AdTekDev Technologies found that its webservers had been accessed without authorization by an employee of competitor ArcBox.  ArcBox’s vice president for marketing dismissed the hacking, saying, “It’s simply a screen that asked for a username and password. The employee didn’t feel like he did anything illicit.” The VP went on to say the employee would not be disciplined. Comment on the ArcBox VP’s defense.  
+
 
