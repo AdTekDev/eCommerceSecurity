@@ -17,3 +17,8 @@ FAR = number of false positives ÷ (number of false positives + number of true n
 Let’s say that we have a database of electronic signatures from 100 users, and for each user separately, we built and calibrated authentication models using a part of this database. We have exactly 5 signatures left from each user to test our model’s false rejection rate, which means that we can get 100 x 5 = 500 genuine scores in total. 
 If we find that (for example) 20 of these scores are below the (user-specific) thresholds, FRR = ?
 
+### 02
+
+![image](https://github.com/AdTekDev/eCommerceSecurity/assets/18588011/7fa6dfde-ec3d-48af-ae8e-981cfb95c7e0)
+
+FAR, FRR, Acc = ?
