@@ -1,5 +1,5 @@
 
-# Buổi 1. Các khái niệm bảo mật
+# W01. Các khái niệm bảo mật
 
 ## hạ tầng thương mại điện tử
 - mạng
