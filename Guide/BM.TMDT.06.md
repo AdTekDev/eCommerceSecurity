@@ -1,7 +1,7 @@
 
 # W06. Crypto [02] 
 
-## Symmetric block cipher
+## Symmetric
 
 ### AES - Advanced Encryption Standard (AES - Rijndael algorithm)
 
