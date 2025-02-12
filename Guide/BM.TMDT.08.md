@@ -34,7 +34,8 @@ vd01.txt "D:(A;;FA;;;SY)(A;;FA;;;BA)(A;;FA;;;S-1-5-21-1506185832-2176520576-3516
 ## Tools
 
 File -> Properties -> Security   
-  ![image](https://github.com/user-attachments/assets/d511e5ee-a152-43e9-a244-0a5cfc393495)
+![image](https://github.com/user-attachments/assets/e4b8e68d-50e7-4386-9be3-44faeba22112)
+
 
 --> Advanced  
   ![image](https://github.com/user-attachments/assets/745df860-30e3-43f0-9ba3-0a59bf983abc)
