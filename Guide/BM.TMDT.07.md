@@ -36,6 +36,8 @@ Get-NetTCPConnection | Where-Object {$_.State -eq 'Listen'}
 
 ## CA / SSL certificate
 
-- chrome://certificate-manager/clientcerts 
+- chrome://certificate-manager/clientcerts
+- Manage user certificates
+
 ![image](https://github.com/user-attachments/assets/45f3ddc0-2d3a-41a7-aaeb-9672cc13495c)
 
