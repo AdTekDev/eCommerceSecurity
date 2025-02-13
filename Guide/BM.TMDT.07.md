@@ -41,3 +41,10 @@ Get-NetTCPConnection | Where-Object {$_.State -eq 'Listen'}
 
 ![image](https://github.com/user-attachments/assets/45f3ddc0-2d3a-41a7-aaeb-9672cc13495c)
 
+
+Create CA:
+- https://www.samltool.com/self_signed_certs.php
+- https://www.foxids.com/tools/certificate
+- https://en.rakko.tools/tools/46/
+- https://www.ssl.com/online-csr-and-key-generator/
+- https://certificatedecoder.dev/
