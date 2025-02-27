@@ -18,3 +18,17 @@ Câu hỏi:
 - False Rejection Rate (FRR): Tính tỷ lệ bị từ chối sai (FRR).
 - False Acceptance Rate (FAR): Tính tỷ lệ chấp nhận sai (FAR).
 ```
+
+
+BT.02   
+```
+Cho các số đo:
+Accuracy (Độ chính xác / xác thực:  TP + TN / TP + TN + FP + FN) =	0.85
+Precision (Tính đúng: TP/ TP+FP) =	0.85
+Recall (Độ nhạy: TPR = TP/TP+FN)	= 0.83
+
+Và số lượng: FP=7, FN=8
+
+Tính TP, TN
+
+```
